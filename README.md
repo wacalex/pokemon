@@ -1,2 +1,2 @@
 # pokemon
-[Click para ver el Pokedex](https://github.com/wacalex/pokemon.html)
+[Click para ver el Pokedex](https://wacalex.github.io/pokemon/)
